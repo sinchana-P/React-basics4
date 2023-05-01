@@ -1,0 +1,22 @@
+{
+  "name": "notes-old",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-mde": "^8.0.0",
+    "react-split": "^2.0.14",
+    "require": "^2.4.20",
+    "requirejs": "^2.3.6",
+    "showdown": "^2.1.0"
+  },
+  "description": ""
+}
